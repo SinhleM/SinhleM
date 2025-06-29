@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋🏾 Hi, I'm Sinhle Mkhabela
 
-<!--
-**SinhleM/SinhleM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Science student | 💻 Future DevOps engineer  
+📍 Johannesburg, South Africa | 🛠️ React • Node.js • AWS • PHP • MySQL
 
-Here are some ideas to get you started:
+🚀 Currently:
+- Hosting [TailTrade](tailrade.netlify.app) – a fullstack pet marketplace (React + PHP + MySQL) on AWS
+- Developing my **AWS, EC2, Lambda, CI/CD ** and DevOps tools skillset
+- Completing **AWS Cloud Solutions Architect certificate on Coursera**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interested in:
+- Cloud & DevOps roles (AWS, infrastructure, CI/CD)
+- Scalable web apps with React, Node.js & modern backend stacks
+
+📫 Reach me: [sinhlemkhabela01@gmail.com](mailto:sinhlemkhabela01@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sinhlemkhabela/)
