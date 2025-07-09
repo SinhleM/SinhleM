@@ -1,4 +1,4 @@
-<h1>👋🏽 Hi, I'm Sinhle Mkhabela!</h1>
+<h1>Hi, I'm Sinhle Mkhabela!</h1>
 
 <p>
     Check out my, <a href="https://sinhle-portfolio.netlify.app/" target="_blank">Portfolio</a>.
