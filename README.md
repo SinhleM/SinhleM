@@ -19,7 +19,7 @@
 <h2>💡 Interested in:</h2>
 <ul>
     <li>Everything <strong>Data, Cloud, and DevOps</strong> related.</li>
-    <li>Building <strong>scalable web applications</strong> with React, Node.js, and modern backend stacks.</li>
+    <li>Building <strong>scalable web applications</strong> with React, Python, and modern backend stacks.</li>
 </ul>
 
 <h2>📫 Reach me:</h2>
