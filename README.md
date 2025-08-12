@@ -6,7 +6,7 @@
 
 <p>
     🎓 Final-year Computer Science student<br>
-    📍 Johannesburg, South Africa | 🛠️ Python • SQL • AWS • React • FastAPI
+    📍 Johannesburg, South Africa | 🛠️ Python • SQL • AWS • Linux
 </p>
 
 <h2>🚀 Currently:</h2>
