@@ -1,25 +1,25 @@
 <h1>Hi, I'm Sinhle Mkhabela!</h1>
 
 <p>
-    Check out my, <a href="https://sinhle-portfolio.netlify.app/" target="_blank">Portfolio</a>.
+    Check out my, <a href="https://sinhle-portfolio.vercel.app/" target="_blank">Portfolio</a>.
 </p>
 
 <p>
     🎓 Final-year Computer Science student<br>
-    📍 Johannesburg, South Africa | 🛠️ Python • SQL • AWS • Linux
+    📍 Johannesburg, South Africa | 🛠️ Python • SQL • AWS • PowerBI
 </p>
 
 <h2>🚀 Currently:</h2>
 <ul>
     <li>Working on a <strong>real-time End-to-End Data Warehouse</strong> for a mock financial institution.</li>
-    <li>Developing my skillset in <strong>Data, Cloud, and Development Operations</strong>.</li>
+    <li>Developing my skillset in <strong>Data engineer, Visualisations and Cloud</strong>.</li>
     <li>Completing the <strong>IBM Data Engineering course</strong> on Coursera.</li>
 </ul>
 
 <h2>💡 Interested in:</h2>
 <ul>
-    <li>Everything <strong>Data, Cloud, and DevOps</strong> related.</li>
-    <li>Building <strong>scalable web applications</strong> with React, Python, and modern backend stacks.</li>
+    <li>Everything <strong>Data</strong> related.</li>
+    <li>Building <strong>scalable data driven porjects</strong> with Python and SQL for meaninful insights.</li>
 </ul>
 
 <h2>📫 Reach me:</h2>
