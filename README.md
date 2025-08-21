@@ -11,7 +11,7 @@
 
 <h2>🚀 Currently:</h2>
 <ul>
-    <li>Working on a <strong>real-time End-to-End Data Warehouse</strong> for a mock financial institution.</li>
+    <li>Working on a <strong>real time End-to-End Data Warehouse</strong> for a mock financial institution.</li>
     <li>Developing my skillset in <strong>Data engineer, Visualisations and Cloud</strong>.</li>
     <li>Completing the <strong>IBM Data Engineering course</strong> on Coursera.</li>
 </ul>
