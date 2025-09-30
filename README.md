@@ -6,7 +6,7 @@
 
 <p>
     Final year Computer Science student.<br>
-    Johannesburg, South Africa | 🛠️ Python • SQL • AWS • PowerBI
+    Johannesburg, South Africa | 🛠️ Python • SQL • Data
 </p>
 
 <h2>🚀 Currently:</h2>
