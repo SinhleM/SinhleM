@@ -6,19 +6,18 @@
 
 <p>
     Computer Science Graduate<br>
-    Pretoria, South Africa |  Python • SQL • Data Engineering
+    Pretoria, South Africa |  Python • SQL • Data Engineering • Ai Engineering
 </p>
 
 <h2>🚀 Currently:</h2>
 <ul>
-    <li>Defining my skills in <strong>Data Engineering, Optimisations, and Cloud Computing</strong>.</li>
-    <li>Completing the <strong>IBM Data Engineering Professional Certificate</strong> on Coursera.</li>
+    <li>Defining my skills in <strong>Ai Engineering, Optimisations, and Cloud Computing</strong>.</li>
 </ul>
 
 <h2>💡 Interested in:</h2>
 <ul>
-    <li>Everything <strong>Data</strong> related.</li>
-    <li>Building <strong>scalable, data-driven projects</strong> with Python and SQL for meaningful insights.</li>
+    <li>Everything <strong>AI + Data</strong> related.</li>
+    <li>Building <strong>scalable, AI driven projects</strong> with Python and SQL to better workflows.</li>
 </ul>
 
 <h2>📫 Reach me:</h2>
