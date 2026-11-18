@@ -12,6 +12,7 @@ I build LLM systems you can trust: the model extracts, code verifies, and every 
 <p align="center">
   <a href="https://sinhle-portfolio.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/sinhle-mkhabela-0b6812345/">LinkedIn</a> ·
+  <a href="https://clearentry.co.za">Clear Entry</a> ·
   <a href="https://tenderfill.co.za">TenderFill</a> ·
   <a href="https://sorae.co.za">Sorae</a> ·
   <a href="mailto:sinhlemkhabela01@gmail.com">Email</a>
@@ -19,11 +20,17 @@ I build LLM systems you can trust: the model extracts, code verifies, and every 
 
 ---
 
-### Currently building: [TenderFill](https://tenderfill.co.za) *(in progress)*
+### Currently building: [Clear Entry](https://clearentry.co.za) *(in progress)*
 
-A bid compliance auditor for South African public tenders. It checks a tender pack against a supplier's documents and flags anything that could disqualify the bid, with a page citation for each finding. Claude extracts verbatim quotes, and code verifies every quote against the source, so no finding can be invented.
+An AI copilot for South African customs clearing agents. It reads a shipment's invoice, packing list, bill of lading and freight statements, then produces the SARS customs worksheet (rule 39.05A), SAD 509 data, a duty and VAT check, and tariff code suggestions with reasons. Every number links back to the page and line it came from. The AI only extracts; all currency conversion, apportionment and duty maths runs in tested code. A licensed declarant reviews and approves, and Clear Entry never submits to SARS. ~1,000 automated tests, tenant isolation at the database level, POPIA deletion and export built in.
 
-`Next.js` `TypeScript` `Supabase` `Claude API` `Zod` `Vercel`
+---
+
+### Also building
+
+**[TenderFill](https://tenderfill.co.za)**: bid compliance auditor for SA public tenders. Claude extracts verbatim quotes, code verifies each one against the source, and every finding carries a page citation.
+
+**[Sorae](https://sorae.co.za)**: bank statement intelligence for South African microlenders.
 
 ---
 
